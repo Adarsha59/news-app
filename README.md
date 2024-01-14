@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React News App with API Fetch
 
 ## Overview
@@ -35,3 +36,6 @@ The project follows a standard React application structure:
 
 Note: Replace `<repository-url>` with the actual URL of your Git repository if applicable. This Markdown file serves as documentation for your practice news app project.
 
+=======
+# news-app
+>>>>>>> origin/main
